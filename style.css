@@ -1,0 +1,104 @@
+body {
+    font-family: 'Balsamiq Sans', cursive;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 55px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.high {
+    color: tomato;
+}
+
+.divider {
+    width: 36%;
+    padding: 1%;
+    margin: 6%;
+    float: left;
+}
+
+.divider img {
+    width: 90%;
+}
+
+.buton {
+    background-color: tomato;
+    color: white;
+    padding: 7px 15px;
+    border-radius: 8px;
+    font-weight: 700;
+}
+
+.top {
+    height: 580px;
+    padding-bottom: 230px;
+}
+
+.top {
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.second {
+    height: 580px;
+    padding-bottom: 240px;
+}
+
+.second {
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 105%;
+}
+
+.mid-header {
+    text-align: center;
+}
+
+.mid-section {
+    height: 400px;
+    padding-bottom: 220px;
+}
+
+.divider2 img {
+    width: 27%;
+    margin: 3%;
+    float: left;
+}
+
+.mid-section {
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 98%;
+}
+
+.design {
+    background-color: rgba(189, 147, 182, 0.76);
+    padding: 30px 50px;
+    border-radius: 8px;
+    height: 80px;
+    width: 300px;
+    position: relative;
+    top: 40px;
+    left: 542px;
+}
+
+.last {
+    height: 500px;
+    padding-bottom: 220px;
+}
+
+.last {
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
